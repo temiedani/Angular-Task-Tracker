@@ -16,7 +16,19 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Play Football",
+      "day": "121212-12-12T12:12",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Eritrea Independence Day",
+      "day": "1991-05-24T21:55",
+      "reminder": true,
+      "id": 5
     }
   ]
 }

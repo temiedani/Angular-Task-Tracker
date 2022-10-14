@@ -6,11 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  myvalue: string = '';
-  myvalues: Array<string> = new Array<string>();
-  myfunction() {
-    this.myvalues.push(this.myvalue);
-    this.myvalue = '';
-  }
-  age = 12;
+  title: string = 'tutorial';
 }
